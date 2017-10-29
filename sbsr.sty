@@ -1,0 +1,66 @@
+% Padrão para artigos no SBSR, desenvolvido por Thales Sehn Körting
+% http://www.dpi.inpe.br/~thales/
+% contato: thales@dpi.inpe.br
+
+\ProvidesPackage{sbsr}[2016/04/18]
+
+% pacotes requeridos
+\RequirePackage[T1]{fontenc}
+\RequirePackage[utf8]{inputenc}
+\RequirePackage{times}
+\RequirePackage{amsmath}
+\RequirePackage{url}
+\RequirePackage[top=3cm,bottom=2cm,left=2.5cm,right=2.5cm]{geometry}
+\RequirePackage[pdftex]{graphicx}
+\RequirePackage[alf]{abntcite}
+\usepackage{tikz}
+\usepackage{indentfirst}
+\usepackage{subfig}
+\graphicspath{ {figuras/} }
+\newcommand{\paperlanguage}[1]
+{
+  \ifthenelse{\equal{#1}{portugues}}{\RequirePackage[brazil,portuguese]{babel}}{}
+}
+
+\pagestyle{empty}
+\linespread{1}
+\sloppy
+\flushbottom
+\hyphenpenalty=100000
+
+\makeatletter
+
+% titulo
+\def\address#1{\def\@address{#1}}
+\def\maketitle
+{
+	\begin{center}
+		{\bf \@title}
+		\vskip 1em
+		\@author
+		\vskip 1em
+		\@address
+	\end{center}
+}
+
+% abstract, resumo e keywords
+\ifthenelse{\isundefined{\palavraschave}}{\def\@palavraschave{.}}{}
+\def\palavraschave#1#2#3{\def\@palavraschave{#1, #2, #3}}
+\ifthenelse{\isundefined{\keywords}}{\def\@keywords{}}{}
+\def\keywords#1#2#3{\def\@keywords{#1, #2, #3}}
+\newenvironment{resumo}{\small \noindent {\bf Resumo.}}{\\ \ \\ {\bf Palavras-chave:} \@palavraschave~\@keywords \normalsize}
+\renewenvironment{abstract}{\small \noindent {\bf Abstract.}}{\\ \ \\ {\bf Keywords:} \@keywords~\@palavraschave \normalsize}
+
+% seções
+\renewcommand\section{\@startsection{section}{2}{0pt}{\baselineskip}{1pt}{\bf}}
+\renewcommand\subsection{\@startsection{subsection}{2}{0pt}{\baselineskip}{1pt}{\bf}}
+\RequirePackage{titlesec}
+\titlelabel{\thetitle.\hspace{1ex}}
+\usepackage{titlesec}
+
+\setcounter{secnumdepth}{4}
+
+\titleformat{\paragraph}
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}

@@ -1,0 +1,141 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.45.2.1 }
+
+\bibitem[Blak 2007]{assessmentblak}
+\abntrefinfo{Blak}{BLAK}{2007}
+{BLAK, A.~T. Dem quality assessment. In:  MAUNE, D.~F. (Ed.). \textbf{\emph{Digital
+  elevation model technologies and applications: the DEM users manual}.} [S.l.]:
+  Asprs Publications, 2007. cap.~14, p. 425--473.}
+
+
+\bibitem[Brasil 1984]{brasil22decreto}
+\abntrefinfo{Brasil}{BRASIL}{1984}
+{BRASIL, L.~D. \textbf{Decreto no 89.817, de 20 de junho. estabelece as
+  instru{\c{c}}{\~o}es reguladoras das normas t{\'e}cnicas da cartografia
+  nacional (irntcn).}
+\emph{Bras{\'\i}lia: Di{\'a}rio Oficial da Uni{\~a}o (DOU)}, v.~22, p. 06--84,
+  1984.}
+
+
+\bibitem[CONCAR 2011]{de2011especificaccao}
+\abntrefinfo{CONCAR}{CONCAR}{2011}
+{CONCAR, D. S.~G. \textbf{Especifica{\c{c}}{\~a}o t{\'e}cnica para a
+  aquisi{\c{c}}{\~a}o de dados geoespaciais vetoriais (ET-ADGV).}
+\emph{Minist{\'e}rio da Defesa, Ex{\'e}rcito Brasileiro, Departamento de
+  Ci{\^e}ncia e Tecnologia. Bras{\'\i}lia-DF, 2{\textordfeminine}
+  edi{\c{c}}{\~a}o}, 2011.}
+
+
+\bibitem[Duarte e Romanholi 2016]{duarteromanholli}
+
+\abntrefinfo{Duarte e Romanholi}{DUARTE; ROMANHOLI}{2016}
+{DUARTE, R.; ROMANHOLI, M.~P. \textbf{Algoritmo para c\'alculo de dist\^ancias
+  tridimensionais entre pontos e linhas em banco de dados geogr\'aficos para
+  avalia\c{c}\~ao de acur\'acia posicional de dados cartogr\'aficos vetoriais.}
+  In:  . Florian\'opolis-SC: Universidade Federal de Santa Catarina: CONGRESSO
+  BRASILEIRO DE CADASTRO T\' ECNICO MULTIFINALIT\' ARIO, 2016.}
+\bibitem[Fegeas, Cascio e Lazar 1992]{fegeas1992overview}
+\abntrefinfo{Fegeas, Cascio e Lazar}{FEGEAS; CASCIO; LAZAR}{1992}
+{FEGEAS, R.~G.; CASCIO, J.~L.; LAZAR, R.~A. \textbf{An overview of fips 173, the
+  spatial data transfer standard.}
+\emph{Cartography and Geographic Information Systems}, Taylor \& Francis,
+  v.~19, n.~5, p. 278--293, 1992.}
+
+
+\bibitem[Galo e Camargo 1994]{galoecamargo}
+\abntrefinfo{Galo e Camargo}{GALO; CAMARGO}{1994}
+{GALO, M.; CAMARGO, P. \textbf{Utiliza\c{c}\~ao do gps no controle de qualidade de
+  cartas.} In:  . Florianópolis-SC: Universidade Federal de Santa Catarina:
+  Anais CONGRESSO BRASILEIRO DE CADASTRO TÉCNICO MULTIFINALITÁRIO, 1994. p.
+  41--48.}
+
+
+\bibitem[Gesch et al. 2014]{usgs}
+\abntrefinfo{Gesch et al.}{GESCH et al.}{2014}
+{GESCH, B. et al. \textbf{Accuracy assessment of the u.s.geological survey national
+  elevation dataset, and comparison with other large-area elevation datasets
+  – srtm and aster.} In:  . U.S. Geological Survey, Reston, Virginia: USGS O.
+  F. R. 2014-1008, 2014. p.~5--6.}
+
+
+\bibitem[Guptill e Morrison 2013]{guptill2013elements}
+\abntrefinfo{Guptill e Morrison}{GUPTILL; MORRISON}{2013}
+{GUPTILL, S.~C.; MORRISON, J.~L. \textbf{\emph{Elements of spatial data quality}.}
+  [S.l.]: Elsevier, 2013.}
+
+
+\bibitem[Ho, Quintanilha e Quinino 2010]{ho2010design}
+\abntrefinfo{Ho, Quintanilha e Quinino}{HO; QUINTANILHA; QUININO}{2010}
+{HO, L.~L.; QUINTANILHA, J.~A.; QUININO, R.~C. \textbf{The design of a zero-defect
+  sampling with rectification procedure in the presence of classification
+  errors: an application to database with spatial data.}
+\emph{Brazilian Journal of Operations \& Production Management}, v.~3, n.~1, p.
+  87--89, 2010.}
+
+
+\bibitem[Joksi{\'c} e Bajat 2004]{joksic2004elements}
+\abntrefinfo{Joksi{\'c} e Bajat}{JOKSI{\'C}; BAJAT}{2004}
+{JOKSI{\'C}, D.; BAJAT, B. \textbf{Elements of spatial data quality as information
+  technology support for sustainable development planning.}
+\emph{Spatium}, n.~11, p. 77--83, 2004.}
+
+
+\bibitem[J{\'u}nior 2003]{nogueira2003controle}
+\abntrefinfo{J{\'u}nior}{J{\'U}NIOR}{2003}
+{J{\'U}NIOR, J.~B. N. \textbf{Controle de qualidade de produtos cartogr{\'a}ficos: uma
+  proposta metodol{\'o}gica.}
+Universidade Estadual Paulista (UNESP), 2003.}
+
+
+\bibitem[Kainz 1995]{kainz1995}
+\abntrefinfo{Kainz}{KAINZ}{1995}
+{KAINZ, W. Semantic accuracy. In:  GUPTILL, S.~C.; MORRISON, J.~L. (Ed.).
+  \textbf{\emph{Elements of spatial data quality}.} [S.l.]: Oxford Elsevier Science,
+  1995. v.~202, cap.~8, p. 109--138.}
+
+
+\bibitem[Leal e Dalmolin 2002]{leal2002consideraccoes}
+\abntrefinfo{Leal e Dalmolin}{LEAL; DALMOLIN}{2002}
+{LEAL, E. d.~M.; DALMOLIN, Q. \textbf{\emph{Considera{\c{c}}{\~o}es Sobre a
+  Classifica{\c{c}}{\~a}o de Documentos Cartogr{\'a}ficos}.} [S.l.]: Curitiba,
+  2002.}
+
+
+\bibitem[Merchant 1982]{merchant1982spatial}
+\abntrefinfo{Merchant}{MERCHANT}{1982}
+{MERCHANT, D. Spatial accuracy standards for large scale line maps. In:
+  \textbf{\emph{Technical papers of the American Congress on Surveying and Mapping}.}
+  [S.l.: s.n.], 1982. v.~1, p. 222--231.}
+
+
+\bibitem[Miller e Laflamme 1958]{miller1958digital}
+\abntrefinfo{Miller e Laflamme}{MILLER; LAFLAMME}{1958}
+{MILLER, C.~L.; LAFLAMME, R.~A. \textbf{\emph{The Digital Terrain Model-: Theory \&
+  Application}.} [S.l.]: MIT Photogrammetry Laboratory, 1958.}
+
+
+\bibitem[Salgé 1995]{salge1995spatial}
+\abntrefinfo{Salgé}{SALGé}{1995}
+{SALGé, F. Semantic accuracy. In:  GUPTILL, S.~C.; MORRISON, J.~L. (Ed.).
+  \textbf{\emph{Elements of spatial data quality}.} [S.l.]: Oxford Elsevier Science,
+  1995. v.~202, cap.~7, p. 139--151.}
+
+
+\bibitem[Shi 2009]{shi2009principles}
+\abntrefinfo{Shi}{SHI}{2009}
+{SHI, W. \textbf{\emph{Principles of modeling uncertainties in spatial data and spatial
+  analyses}.} [S.l.]: CRC Press, 2009.}
+
+
+\bibitem[Standarization 2011]{ISO19157}
+\abntrefinfo{Standarization}{STANDARIZATION}{2011}
+{STANDARIZATION, I.~O. for. \textbf{\emph{ISO 19157: Geographic Information - Data
+  Quality. International Organization for Standarization}.} [S.l.]:
+  International Organization for Standardization, 2011.}
+
+
+\end{thebibliography}
